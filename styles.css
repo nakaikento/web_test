@@ -6,8 +6,11 @@ title{
   color: skyblue;
 }
 
-#nakai{
+#Nakai{
   color: red;
+}
+#Taguchi{
+  color: green;
 }
 
 .novel{
@@ -17,4 +20,8 @@ title{
 
 .snack{
   background-color: brown;
+}
+
+.basictgc{
+  font-color:yellow;
 }
