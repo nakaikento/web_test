@@ -1,12 +1,13 @@
-head{
-  background-color: blue;
-}
+
 title{
   color: white;
 }
 
 .self{
   color: skyblue;
+}
+.jico{
+  font-size: 36px;
 }
 
 #nakai{
